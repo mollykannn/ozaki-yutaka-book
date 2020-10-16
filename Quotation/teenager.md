@@ -60,4 +60,4 @@
 
 ---
 轉載自:  
-- [十代語錄](http://web.archive.org/web/20110429051830/http://blog.yam.com/forgetnot/category/640542)  
+- [十代語錄 | 普通的愛](http://web.archive.org/web/20110429051830/http://blog.yam.com/forgetnot/category/640542)  
