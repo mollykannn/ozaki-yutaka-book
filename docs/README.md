@@ -1,4 +1,4 @@
-前言:
+![cover](images/cover.jpg)
 
 所有資料來自[普通的愛2008](http://blog.yam.com/forgetnot/)。
 
@@ -8,5 +8,8 @@
 
 <br>
 
----
 如果有任何資料想補充的話，歡迎email到<mollykannn@gmail.com> 或是在github裡聯絡我啊 <3
+
+---
+
+Fvaicon icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/)</a>

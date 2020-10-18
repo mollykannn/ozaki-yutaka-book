@@ -1,14 +1,24 @@
 module.exports = {
   title: "尾崎豐傳說",
-  description: "",
+  description: "尾崎豐傳說",
   base: "/ozaki-yutaka-book/",
   head: [
-    ["meta", { name: "theme-color", content: "#3eaf7c" }],
-    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
-    [
-      "meta",
-      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
-    ],
+    ["meta", { name: "viewport", content: "width=device-width,initial-scale=1,viewport-fit=cover" },],
+    ["link", { rel: 'icon', href: "images/icons/favicon.ico", type: "image/ico" },],
+    ["link", { rel: 'apple-touch-icon', href: "images/icons/apple-touch-icon.png", rel: "apple-touch-icon", size: "180x180" },],
+    ["link", { rel: 'icon', href: "images/icons/icon-192x192.png", type: "image/png", size: "192x192" },],
+    ["link", { rel: 'icon', href: "images/icons/icon-32x32.png", type: "image/png", size: "32x32" },],
+    ["link", { rel: 'icon', href: "images/icons/icon-16x16.png", type: "image/png", size: "16x16" },],
+    ["meta", { property: "og:title", content: "尾崎豐傳說" },],
+    ["meta", { property: "og:type", content: "website" },],
+    ["meta", { property: "og:description", content: "尾崎豐傳說" },],
+    ["meta", { property: "og:url", content: "https://mollykannn.github.io/ozaki-yutaka-book/" },],
+    ["meta", { property: "og:image", content: "https://mollykannn.github.io/ozaki-yutaka-book/images/icons/og-image.jpg" },],
+    ["meta", { property: "twitter:card", content: "summary_large_image" },],
+    ["meta", { property: "twitter:title", content: "尾崎豐傳說" },],
+    ["meta", { property: "twitter:creator", content: "@MollyKannn" },],
+    ["meta", { property: "twitter:image", content: "https://mollykannn.github.io/ozaki-yutaka-book/images/icons/og-image.jpg" },],
+    ["meta", { name: "theme-color", content: "#000" }],
   ],
   dest: "dist",
   themeConfig: {
@@ -22,6 +32,7 @@ module.exports = {
           "/Life/1966-1977",
           "/Life/1978-1980",
           "/Life/1981-1983",
+          "/Life/1984",
           "/Life/1985",
           "/Life/1986",
           "/Life/1987-1989",
@@ -38,7 +49,8 @@ module.exports = {
             collapsable: false,
             children: [
               ["/Live/19850825", "08/25 - 大阪球場"],
-              ["/Live/19851115", "11/15 - 代代木OLYMPIC"],
+              ["/Live/19851105", "11/05 - 浜松市民会館"],
+              ["/Live/19851115", "11/15 - 代々木体育館"],
               ["/Live/19851127", "11/27 - 釧路市民文化會館"],
             ],
           },
@@ -46,11 +58,8 @@ module.exports = {
             title: "1991",
             collapsable: false,
             children: [
-              ["/Live/1991-TheDay", "The Day"],
-              [
-                "/Live/19911030-TheDayLastAppearance",
-                "10/30 - THE DAY LAST APPEARANCE",
-              ],
+              ["/Live/19911002", "10/02-03 - 大阪城ホール"],
+              ["/Live/19911030", "10/30 - 代々木体育館"],
             ],
           },
         ],
@@ -69,7 +78,7 @@ module.exports = {
       },
     ],
   },
-    locales: {
+  locales: {
     "/": {
       lang: "zh-Hant",
     },
