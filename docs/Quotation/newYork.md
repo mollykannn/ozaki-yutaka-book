@@ -107,8 +107,3 @@ Punk…其實我所做的
 腦海浮現起他的樣子  
 真無聊，又要來到這裡  
 拚命去活  
-
----
-轉載自:  
-- [1985年11月27日 釧路](http://web.archive.org/web/20110429214120/http://blog.yam.com/forgetnot/category/634985)  
-- [釧路市民文化会館](https://matagorou.hatenablog.com/entry/37005209)
