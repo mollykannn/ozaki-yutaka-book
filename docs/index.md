@@ -1,4 +1,4 @@
-![cover](images/cover.jpg)
+![cover](/images/cover.jpg)
 
 所有資料來自[普通的愛2008](http://blog.yam.com/forgetnot/)。
 
@@ -12,4 +12,4 @@
 
 ---
 
-Fvaicon icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/)</a>
+Fvaicon icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/)
