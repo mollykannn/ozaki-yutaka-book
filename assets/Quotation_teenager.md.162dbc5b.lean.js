@@ -1,0 +1,1 @@
+import{o as r,c as p,d as e}from"./app.dad8a4b3.js";const a='{"title":"十代語錄","description":"","frontmatter":{},"relativePath":"Quotation/teenager.md","lastUpdated":1618643783000}',t={},b=e('',24);t.render=function(e,a,t,o,n,h){return r(),p("div",null,[b])};export default t;export{a as __pageData};
