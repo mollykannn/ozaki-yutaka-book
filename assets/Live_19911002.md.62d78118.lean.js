@@ -1,1 +1,0 @@
-import{_ as r,c as b,o as p,a as t}from"./app.98312c6e.js";const a='{"title":"1991/10/02-03 - 大阪城ホール","description":"","frontmatter":{},"relativePath":"Live/19911002.md","lastUpdated":1632146401842}',e={},o=[t('',8)];var i=r(e,[["render",function(r,t,a,e,i,n){return p(),b("div",null,o)}]]);export default i;export{a as __pageData};
