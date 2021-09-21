@@ -1,1 +1,0 @@
-import{_ as r,c as b,o as p,a}from"./app.98312c6e.js";const t='{"title":"紐約獨白","description":"","frontmatter":{},"relativePath":"Quotation/newYork.md","lastUpdated":1632175805608}',e={},n=[a('',11)];var o=r(e,[["render",function(r,a,t,e,o,_){return p(),b("div",null,n)}]]);export default o;export{t as __pageData};
