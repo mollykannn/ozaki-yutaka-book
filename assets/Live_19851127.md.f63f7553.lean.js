@@ -1,0 +1,1 @@
+import{_ as r,c as e,o as a,a as t}from"./app.f75da0e9.js";const b='{"title":"1985/11/27 - 釧路市民文化會館","description":"","frontmatter":{},"relativePath":"Live/19851127.md","lastUpdated":1632307591549}',o={},p=[t('',11)];var n=r(o,[["render",function(r,t,b,o,n,l){return a(),e("div",null,p)}]]);export{b as __pageData,n as default};
