@@ -86,6 +86,17 @@ module.exports = {
     sidebarDepth: 0,
     sidebar: [
       { text: "前言", link: "/" },
+      { text: "專輯中譯歌詞", 
+        link: "/Album/index",
+        children: [
+          { text: "1. 十七歳の地図", link: "/Album/index#十七歳の地図-01-12-1983" },
+          { text: "2. 回帰線", link: "/Album/index#回帰線-21-03-1985" },
+          { text: "3. 壊れた扉から", link: "/Album/index#壊れた扉から-28-11-1985" },
+          { text: "4. 街路樹", link: "/Album/index#街路樹-01-09-1988" },
+          { text: "5. 誕生", link: "/Album/index#誕生-21-11-1990" },
+          { text: "6. 放熱への証", link: "/Album/index#放熱への証-10-05-1992" },
+        ]
+      },
       {
         text: "演唱會",
         collapsable: false,
