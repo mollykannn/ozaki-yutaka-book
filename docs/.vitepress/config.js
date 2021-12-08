@@ -80,6 +80,11 @@ module.exports = {
       },
     ],
     ["meta", { name: "theme-color", content: "#000" }],
+    ["link", {
+      rel: "manifest",
+      href: "https://mollykannn.github.io/ozaki-yutaka-book/manifest.webmanifest",
+    },],
+    ["script", { src: "https://mollykannn.github.io/ozaki-yutaka-book/registerSW.js" }],
   ],
   dest: "dist",
   themeConfig: {
