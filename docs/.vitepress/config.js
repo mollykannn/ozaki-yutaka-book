@@ -27,7 +27,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/ozaki-yutaka-book/images/icons/icon-192x192.png",
+        href: "https://mollykannn.github.io/ozaki-yutaka-book/images/icons/android-chrome-192x192.png",
         type: "image/png",
         size: "192x192",
       },
@@ -36,7 +36,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/ozaki-yutaka-book/images/icons/icon-32x32.png",
+        href: "https://mollykannn.github.io/ozaki-yutaka-book/images/icons/android-chrome-32x32.png",
         type: "image/png",
         size: "32x32",
       },
@@ -45,7 +45,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://mollykannn.github.io/ozaki-yutaka-book/images/icons/icon-16x16.png",
+        href: "https://mollykannn.github.io/ozaki-yutaka-book/images/icons/android-chrome-16x16.png",
         type: "image/png",
         size: "16x16",
       },

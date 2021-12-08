@@ -15,9 +15,9 @@ export default defineConfig({
       strategies: 'injectManifest',
       includeAssets: ['favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
       manifest: {
-        name: 'Note',
-        short_name: 'Note',
-        description: 'Note',
+        name: '尾崎豐傳說',
+        short_name: '尾崎豐傳說',
+        description: '尾崎豐傳說',
         theme_color: '#0079d2',
         start_url: './index.html',
         lang: 'zh-Hant-HK',
