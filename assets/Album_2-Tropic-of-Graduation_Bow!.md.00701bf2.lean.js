@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,a as r}from"./app.49dbb6c8.js";const f='{"title":"Bow!","description":"","frontmatter":{},"relativePath":"Album/2-Tropic-of-Graduation/Bow!.md","lastUpdated":1638960704598}',a={},o=r('',42),_=[o];function n(c,s,i,d,h,l){return t(),e("div",null,_)}var m=p(a,[["render",n]]);export{f as __pageData,m as default};
