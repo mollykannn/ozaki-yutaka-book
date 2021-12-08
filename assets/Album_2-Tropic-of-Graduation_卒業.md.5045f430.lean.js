@@ -1,1 +1,0 @@
-import{_ as p,c as r,o as e,a as t}from"./app.49dbb6c8.js";const f='{"title":"\u5352\u696D","description":"","frontmatter":{},"relativePath":"Album/2-Tropic-of-Graduation/\u5352\u696D.md","lastUpdated":1638960704598}',a={},o=t('',74),_=[o];function n(c,s,i,d,h,l){return e(),r("div",null,_)}var m=p(a,[["render",n]]);export{f as __pageData,m as default};

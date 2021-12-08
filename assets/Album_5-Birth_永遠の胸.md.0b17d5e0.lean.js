@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,a as r}from"./app.254b09b8.js";const f='{"title":"\u6C38\u9060\u306E\u80F8","description":"","frontmatter":{},"relativePath":"Album/5-Birth/\u6C38\u9060\u306E\u80F8.md","lastUpdated":1638961170246}',a={},_=r('',51),o=[_];function n(c,h,s,i,l,d){return t(),e("div",null,o)}var m=p(a,[["render",n]]);export{f as __pageData,m as default};
