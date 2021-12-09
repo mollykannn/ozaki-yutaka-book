@@ -1,0 +1,1 @@
+import{_ as p,c as i,o as t,a as r}from"./app.af7f7d8f.js";const c='{"title":"Driving All Night","description":"","frontmatter":{},"relativePath":"Album/3-Through-the-Broken-Door/Driving-All-Night.md","lastUpdated":1639056092843}',n={},o=r('',46),a=[o];function l(e,g,h,d,_,w){return t(),i("div",null,a)}var v=p(n,[["render",l]]);export{c as __pageData,v as default};
