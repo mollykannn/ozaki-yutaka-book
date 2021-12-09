@@ -107,9 +107,20 @@ module.exports = {
         collapsable: false,
         children: [
           {
+            text: "1984",
+            collapsable: false,
+            children: [
+              { text: "03/15 - 新宿ルイード", link: "/Live/19840315" },
+              { text: "08/04 - 東京·日比谷野外音樂堂", link: "/Live/19840804" },
+              { text: "12/03 - 秋田文化會館", link: "/Live/19841203" },
+              { text: "12/05 - 仙台市民会館", link: "/Live/19841205" },
+            ],
+          },
+          {
             text: "1985",
             collapsable: false,
             children: [
+              { text: "01/12 - 日本青年館", link: "/Live/19850112" },
               { text: "08/25 - 大阪球場", link: "/Live/19850825" },
               { text: "11/05 - 浜松市民会館", link: "/Live/19851105" },
               { text: "11/15 - 代々木体育館", link: "/Live/19851115" },
