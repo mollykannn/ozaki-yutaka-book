@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.af7f7d8f.js";const m='{"title":"1984/12/05 - \u4ED9\u53F0\u5E02\u6C11\u4F1A\u9928","description":"","frontmatter":{},"relativePath":"Live/19841205.md","lastUpdated":1639271810783}',o={},_=r('',9),p=[_];function n(c,s,i,l,d,h){return a(),t("div",null,p)}var u=e(o,[["render",n]]);export{m as __pageData,u as default};

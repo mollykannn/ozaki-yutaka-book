@@ -1,1 +1,0 @@
-import{_ as p,c as a,o as e,a as s}from"./app.af7f7d8f.js";const R='{"title":"\u30ED\u30B6\u30FC\u30CA","description":"","frontmatter":{},"relativePath":"Album/5-Birth/\u30ED\u30B6\u30FC\u30CA.md","lastUpdated":1639271760384}',t={},o=s('',37),r=[o];function n(_,c,i,d,h,l){return e(),a("div",null,r)}var m=p(t,[["render",n]]);export{R as __pageData,m as default};
