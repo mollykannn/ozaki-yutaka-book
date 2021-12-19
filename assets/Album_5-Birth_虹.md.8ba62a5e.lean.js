@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as a,a as t}from"./app.af7f7d8f.js";const b='{"title":"\u8679","description":"","frontmatter":{},"relativePath":"Album/5-Birth/\u8679.md","lastUpdated":1639876194139}',r={},o=t('',34),_=[o];function c(n,s,i,d,h,l){return a(),e("div",null,_)}var m=p(r,[["render",c]]);export{b as __pageData,m as default};

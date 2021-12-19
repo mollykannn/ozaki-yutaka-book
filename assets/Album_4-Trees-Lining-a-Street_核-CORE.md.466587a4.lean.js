@@ -1,1 +1,0 @@
-import{_ as p,c as r,o as e,a as t}from"./app.af7f7d8f.js";const f='{"title":"\u6838(CORE)","description":"","frontmatter":{},"relativePath":"Album/4-Trees-Lining-a-Street/\u6838-CORE.md","lastUpdated":1639271810779}',a={},o=t('',67),_=[o];function n(s,c,i,d,h,l){return e(),r("div",null,_)}var m=p(a,[["render",n]]);export{f as __pageData,m as default};
