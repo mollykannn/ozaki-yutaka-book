@@ -1,1 +1,0 @@
-import{_ as r,c as e,o as p,a as t}from"./app.af7f7d8f.js";const f='{"title":"\u5341\u4EE3\u8A9E\u9304","description":"","frontmatter":{},"relativePath":"Quotation/teenager.md","lastUpdated":1639876241654}',a={},o=t('',24),n=[o];function _(b,c,h,s,i,d){return p(),e("div",null,n)}var u=r(a,[["render",_]]);export{f as __pageData,u as default};

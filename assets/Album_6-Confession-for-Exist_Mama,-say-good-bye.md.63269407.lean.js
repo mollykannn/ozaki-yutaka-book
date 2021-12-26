@@ -1,0 +1,1 @@
+import{_ as p,c as a,o as e,a as o}from"./app.af7f7d8f.js";const f='{"title":"Mama, say good-bye","description":"","frontmatter":{},"relativePath":"Album/6-Confession-for-Exist/Mama,-say-good-bye.md","lastUpdated":1640481415094}',t={},r=o('',30),s=[r];function _(d,n,c,m,i,l){return e(),a("div",null,s)}var h=p(t,[["render",_]]);export{f as __pageData,h as default};

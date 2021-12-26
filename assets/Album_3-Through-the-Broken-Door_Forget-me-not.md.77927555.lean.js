@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,a as r}from"./app.af7f7d8f.js";const f='{"title":"Forget-me-not","description":"","frontmatter":{},"relativePath":"Album/3-Through-the-Broken-Door/Forget-me-not.md","lastUpdated":1640481415094}',o={},a=r('',44),n=[a];function _(s,c,h,d,i,m){return t(),e("div",null,n)}var g=p(o,[["render",_]]);export{f as __pageData,g as default};
