@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as l,a as r}from"./app.af7f7d8f.js";const y='{"title":"\u30B7\u30A7\u30EA\u30FC","description":"","frontmatter":{},"relativePath":"Album/2-Tropic-of-Graduation/\u30B7\u30A7\u30EA\u30FC.md","lastUpdated":1640481415094}',t={},a=r('',46),h=[a];function o(_,n,s,c,S,i){return l(),e("div",null,h)}var f=p(t,[["render",o]]);export{y as __pageData,f as default};
