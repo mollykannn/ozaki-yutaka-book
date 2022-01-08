@@ -19,7 +19,6 @@ module.exports = {
       {
         rel: "apple-touch-icon",
         href: "https://mollykannn.github.io/ozaki-yutaka-book/images/icons/apple-touch-icon.png",
-        rel: "apple-touch-icon",
         size: "180x180",
       },
     ],

@@ -5,9 +5,9 @@
     "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
-    "vitepress": "^0.20.1"
+    "vitepress": "^0.21.4"
   },
   "dependencies": {
-    "vite-plugin-pwa": "^0.11.10"
+    "vite-plugin-pwa": "^0.11.12"
   }
 }

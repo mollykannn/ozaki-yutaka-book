@@ -1,6 +1,6 @@
 ![cover](/images/cover.jpg)
 
-所有資料來自[普通的愛2008](http://blog.yam.com/forgetnot/)。
+所有資料來自[普通的愛2008](http://blog.yam.com/forgetnot/) & [豊＠普通的愛｜PChome新聞台](https://mypaper.pchome.com.tw/forgetnot)。
 
 嘛，上不到該網站是正常的，我是用web.archive.org來搬運資料過來的。希望世界末日前可以將資料都搬好過來...  
 大概應該會有人問，為何會做搬運這些無趣的工作?   
