@@ -1,1 +1,0 @@
-import{_ as p,c as e,o,a as r}from"./app.d0234d09.js";const f='{"title":"Freeze Moon","description":"","frontmatter":{},"headers":[],"relativePath":"Album/3-Through-the-Broken-Door/Freeze-Moon.md","lastUpdated":1642295663168}',a={},t=r("",80),h=[t];function n(_,c,s,d,i,l){return o(),e("div",null,h)}var m=p(a,[["render",n]]);export{f as __pageData,m as default};
