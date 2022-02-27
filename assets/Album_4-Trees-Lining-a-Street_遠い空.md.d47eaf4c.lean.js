@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as t,a as r}from"./app.d0234d09.js";const b='{"title":"\u9060\u3044\u7A7A","description":"","frontmatter":{},"headers":[],"relativePath":"Album/4-Trees-Lining-a-Street/\u9060\u3044\u7A7A.md","lastUpdated":1645841030607}',a={},o=r("",32),_=[o];function n(s,c,i,d,l,h){return t(),e("div",null,_)}var m=p(a,[["render",n]]);export{b as __pageData,m as default};
