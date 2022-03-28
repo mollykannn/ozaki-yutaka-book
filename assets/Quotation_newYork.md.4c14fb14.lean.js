@@ -1,0 +1,1 @@
+import{_ as r,c as b,o as e,a as t}from"./app.d0234d09.js";const u='{"title":"\u7D10\u7D04\u7368\u767D","description":"","frontmatter":{},"headers":[],"relativePath":"Quotation/newYork.md","lastUpdated":1648442958714}',a={},p=t("",11),o=[p];function _(n,s,c,d,i,h){return e(),b("div",null,o)}var f=r(a,[["render",_]]);export{u as __pageData,f as default};
