@@ -1,1 +1,0 @@
-import{_ as r,c as b,o as e,a as t}from"./app.d0234d09.js";const u='{"title":"1991/10/02-03 - \u5927\u962A\u57CE\u30DB\u30FC\u30EB","description":"","frontmatter":{},"headers":[],"relativePath":"Live/19911002.md","lastUpdated":1658020317367}',a={},o=t("",11),p=[o];function _(n,s,c,i,d,l){return e(),b("div",null,p)}var f=r(a,[["render",_]]);export{u as __pageData,f as default};

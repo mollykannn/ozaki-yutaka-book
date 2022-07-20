@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.d0234d09.js";const m='{"title":"1984/12/05 - \u4ED9\u53F0\u5E02\u6C11\u4F1A\u9928","description":"","frontmatter":{},"headers":[],"relativePath":"Live/19841205.md","lastUpdated":1658282463678}',o={},_=r("",9),p=[_];function n(s,c,d,i,l,h){return a(),t("div",null,p)}var u=e(o,[["render",n]]);export{m as __pageData,u as default};
