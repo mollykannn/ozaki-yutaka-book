@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,a as o}from"./app.d0234d09.js";var t="/ozaki-yutaka-book/images/cover.jpg";const g='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","lastUpdated":1664071426895}',n={},p=o("",7),c=[p];function _(i,l,m,s,f,h){return a(),r("div",null,c)}var k=e(n,[["render",_]]);export{g as __pageData,k as default};
