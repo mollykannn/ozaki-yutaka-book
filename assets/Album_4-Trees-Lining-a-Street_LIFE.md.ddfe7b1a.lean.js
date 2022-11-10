@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as t,a as r}from"./app.d0234d09.js";const m='{"title":"LIFE","description":"","frontmatter":{},"headers":[],"relativePath":"Album/4-Trees-Lining-a-Street/LIFE.md","lastUpdated":1667696545379}',a={},o=r("",29),_=[o];function n(s,c,i,d,l,h){return t(),e("div",null,_)}var u=p(a,[["render",n]]);export{m as __pageData,u as default};
